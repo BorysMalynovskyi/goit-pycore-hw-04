@@ -205,8 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-homework_6/hw03/pyvenv.cfg
-homework_6/hw04/pyvenv.cfg
 Lib/
 Include/
 Scripts/
