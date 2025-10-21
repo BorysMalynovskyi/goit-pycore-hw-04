@@ -22,7 +22,7 @@ def total_salary(path):
 
                 try:
                     _, salary = line.split(',')
-                    total += int(salary)
+                    total += float(salary)
                     count += 1
 
                 except ValueError:
